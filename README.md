@@ -1,11 +1,4 @@
-# Power-BI-Workforce-Analytics-Dashboard
 
-
-
-
-Xavier Mareca
-18:18 (0 minutes ago)
-to me
 
 # Workforce Analytics Dashboard (Power BI)  
 ### XDT AI — XavierDataTech  
